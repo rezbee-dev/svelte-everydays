@@ -1,3 +1,7 @@
+<script>
+    import { base } from '$app/paths';
+</script>
+
 <main>
     <h1>Daily Svelte</h1>
     <p>Source <a href="https://github.com/rezbee-dev/svelte-everydays">repository</a></p>
@@ -5,7 +9,7 @@
     <section>
         <h2>Challenges:</h2>
         <ul>
-            <li><a href="/challenges/counter">Counter</a></li>
+            <li><a href="{base}/challenges/counter">Counter</a></li>
         </ul>
     </section>
 </main>
