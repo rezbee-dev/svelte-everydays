@@ -18,7 +18,8 @@
                 </tr>
             </thead>
             <tbody>
-                {#each challenges as c}
+                <!-- TODO: include keyed option -->
+                {#each challenges as c, i (i)}
                 <tr>
                     <td data-label="Date">{c.date}</td>
                     <td data-label="Challenge"><a href="{base}/{c.challengeLink}">{c.challenge}</a></td>
