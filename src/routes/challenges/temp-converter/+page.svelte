@@ -21,7 +21,7 @@
     </section>
     <footer>
         <small><a href="{base}/">Home</a></small>
-        <small><a href="https://eugenkiss.github.io/7guis/tasks/">Challenge</a></small>
+        <small><a href="https://eugenkiss.github.io/7guis/tasks/#temp">Challenge</a></small>
     </footer>
 </main>
 
