@@ -1,3 +1,9 @@
+<script>
+    let { children } = $props()
+</script>
+
+{@render children()}
+
 <style>
     :global {
         /* src: https://www.joshwcomeau.com/css/custom-css-reset/ */
