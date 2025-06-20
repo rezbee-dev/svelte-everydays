@@ -13,4 +13,11 @@ export const challenges = [
         "sourceURL":"https://eugenkiss.github.io/7guis/tasks/#temp",
         "sourceLabel":"7 GUIs Tasks"
     },
+    {
+        "date":"June 19, 2025",
+        "challenge":"Flight Booker",
+        "challengeLink": "challenges/flight",
+        "sourceURL":"https://eugenkiss.github.io/7guis/tasks/#flight",
+        "sourceLabel":"7 GUIs Tasks"
+    },
 ]
